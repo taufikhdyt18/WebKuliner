@@ -39,3 +39,6 @@ dan Datatables.
 - Update Data Minuman
 
 ![image](img/updtsukses.png)
+
+
+![image](img/updtsukses.png)
