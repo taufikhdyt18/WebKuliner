@@ -1,4 +1,4 @@
-## Web Kuliner
+## Web Kuliner Sederhana
 | UAS  |  Pemrograman WEB 1  |
 |-------|---------
 | **NIM**   | 312310576
