@@ -35,3 +35,7 @@ dan Datatables.
 ### Halaman Data Minuman
 
 ![image](img/dataminuman.png)
+
+- Update Data Minuman
+
+![image](img/updtsukses.png)
