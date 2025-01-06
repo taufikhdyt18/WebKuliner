@@ -41,4 +41,4 @@ dan Datatables.
 ![image](img/updtsukses.png)
 
 
-![image](img/updtsukses.png)
+![image](img/updatesukses.png)
