@@ -21,3 +21,17 @@ dan Datatables.
 ### Halaman Home
 
 ![image](img/home.png)
+
+### Halaman Data Makanan
+
+![image](img/datamakanan.png)
+
+- Menambah data makanan
+
+![image](img/add1.png)
+
+![image](img/addsukses.png)
+
+### Halaman Data Minuman
+
+![image](img/dataminuman.png)
