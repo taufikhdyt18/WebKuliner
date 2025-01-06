@@ -16,5 +16,8 @@ dan Datatables.
 
 - CRUD app adalah aplikasi perangkat lunak yang melakukan operasi dasar Create, Read, Update, dan Delete (CRUD) pada data. CRUD merupakan fungsi utama yang diimplementasikan dalam aplikasi database. 
 
-### Penampilan :
+## Penampilan :
+
+### Halaman Home
+
 ![image](img/home.png)
