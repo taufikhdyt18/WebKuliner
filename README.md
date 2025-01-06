@@ -10,3 +10,7 @@
 
 - Buatlah sebuah aplikasi CRUD sederhana dengan menggunakan tambahan Bootstrap 5
 dan Datatables.
+
+*Pengertian CRUD:*
+
+- CRUD app adalah aplikasi perangkat lunak yang melakukan operasi dasar Create, Read, Update, dan Delete (CRUD) pada data. CRUD merupakan fungsi utama yang diimplementasikan dalam aplikasi database. 
