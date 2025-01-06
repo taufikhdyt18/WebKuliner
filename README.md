@@ -42,3 +42,18 @@ dan Datatables.
 
 
 ![image](img/updatesukses.png)
+
+### About
+
+
+![image](img/about.png)
+
+
+### Contact
+
+![image](img/contact.png)
+
+
+
+
+## Selesai
